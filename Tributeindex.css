@@ -1,0 +1,40 @@
+body {
+  background-color: #e6a87f;
+  margin: 0 20%;
+  font-family: "Comic Sans MS", Times, serif;
+  font-size: 18px;
+}
+
+#title {
+  text-align: center;
+  text-shadow: 5px 5px 10px rgb(100, 166, 194);
+  font-family: "Comic Sans MS", Times, serif;
+  font-size: 3em;
+}
+
+img {
+  display: block;
+  border: 3px solid rgb(5, 7, 6);
+  border-radius: 24px;
+  width: 40%;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#caption {
+  font-size: 20px;
+  font-style: italic;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+p{
+  text-align: center;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+
